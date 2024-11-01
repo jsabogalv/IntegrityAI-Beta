@@ -47,7 +47,7 @@ IntegrityAI is a tool designed to support forensic auditing processes in the pub
 
 ### Documentation
 
-Refer to the [User Manual](https://github.com/jsabogalv/IntegrityAI-Beta/blob/main/README/Manual%20Usuario%20Final%20v1.2.pdf) for detailed setup, usage instructions, and troubleshooting tips.
+Refer to the [User Manual] in "/README/Manual Usuario Final v1.2.pdf" for detailed setup, usage instructions, and troubleshooting tips.
 
 
 ### Authors and Acknowledgments
@@ -108,7 +108,7 @@ IntegrityAI es una herramienta diseñada para apoyar los procesos de auditoría 
 
 ### Documentación
 
-Consulte el [Manual de Usuario](path/to/manual) para obtener instrucciones detalladas sobre la configuración, uso y resolución de problemas.
+Consulte el [Manual de Usuario] en "/README/Manual Usuario Final v1.2.pdf" para obtener instrucciones detalladas sobre la configuración, uso y resolución de problemas.
 
 ### Autores y Agradecimientos
 
