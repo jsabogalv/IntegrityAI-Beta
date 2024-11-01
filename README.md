@@ -47,7 +47,7 @@ IntegrityAI is a tool designed to support forensic auditing processes in the pub
 
 ### Documentation
 
-Refer to the [User Manual](README/Manual%20Usuario%20Final%20v1.2.pdf) for detailed setup, usage instructions, and troubleshooting tips.
+Refer to the [User Manual](README/Manual_Usuario_Final_v1.2.pdf) for detailed setup, usage instructions, and troubleshooting tips.
 
 ### Authors and Acknowledgments
 
