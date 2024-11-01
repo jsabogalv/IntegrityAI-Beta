@@ -1,0 +1,30 @@
+/tu_proyecto
+|-- /data            # Almacena los conjuntos de datos
+|-- /docs            # Documentación del proyecto
+|-- /notebooks       # Notebooks de Jupyter (si es necesario)
+|-- /scripts         # Scripts ejecutables
+|-- /src             # Código fuente del proyecto
+    |-- /classes     # Clases principales del proyecto
+    |-- /utilities   # Funciones y utilidades generales
+|-- /tests           # Pruebas unitarias y de integración
+|-- environment.yml  # Archivo de configuración del entorno
+|-- README.md        # Información básica del proyecto
+
+Detalle de carpetas:
+/data: Aquí almacenarás todos los conjuntos de datos que utilizarás para el análisis. Puede incluir datos de entrenamiento, datos de prueba y cualquier otro conjunto de datos relevante.
+
+/docs: Esta carpeta contendrá la documentación del proyecto, como manuales de usuario, guías de instalación, etc.
+
+/notebooks: Si necesitas usar notebooks de Jupyter para análisis exploratorio o prototipos rápidos, esta carpeta los almacenará.
+
+/scripts: Aquí puedes colocar scripts ejecutables que se utilizan para correr el proyecto, como scripts de procesamiento de datos o scripts de entrenamiento del modelo.
+
+/src: Es la carpeta principal del código fuente del proyecto.
+
+/src/classes: Aquí colocarás todas las clases principales del proyecto. Cada archivo puede representar una clase o un grupo de clases relacionadas.
+/src/utilities: Esta carpeta contendrá funciones y utilidades generales que pueden ser usadas por las clases en /src/classes.
+/tests: En esta carpeta irán todas las pruebas unitarias y de integración para asegurar la calidad del código y la funcionalidad del proyecto.
+
+environment.yml: Este archivo define el entorno de Anaconda, especificando todas las dependencias necesarias para el proyecto.
+
+README.md: Este archivo contendrá información básica sobre el proyecto, como una descripción general, cómo configurarlo y cómo usarlo.
